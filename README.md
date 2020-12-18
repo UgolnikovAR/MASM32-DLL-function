@@ -1,0 +1,1 @@
+# MASM32-DLL-function
