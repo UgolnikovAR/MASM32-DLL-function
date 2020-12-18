@@ -1,0 +1,2 @@
+LIBRARY func
+EXPORTS str_findwords
